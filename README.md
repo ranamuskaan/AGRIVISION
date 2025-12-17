@@ -1,5 +1,9 @@
 # 🌱 AgriVision – Sustainable Smart Farming System
 - AgriVision is an AI-powered smart farming decision support system designed to help Indian farmers adapt to climate change using data-driven insights, weather forecasts, crop predictions, and personalized recommendations.
+## Project Overview
+
+![Project Pipeline(https://github.com/ranamuskaan/AGRIVISION/blob/main/PROJECT_OVERVIEW.png)
+
 
 🎥 **Project Explanation Video**  
 👉 *Watch the complete walkthrough of the application here:*  
