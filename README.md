@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-![Project Pipeline]()
+![Project Pipeline](https://github.com/ranamuskaan/AGRIVISION/blob/main/EXPLANATION.mp4)
 
 
 🌐 **Live Application Link**  
