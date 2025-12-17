@@ -12,6 +12,9 @@
 
 🌐 **Live Application Link**  
 👉 **https://agrivisionapp-nzpwnywqgnklg6ycm2qycl.streamlit.app/**
+### Credentials to open the app
+- USERNAME- demo
+- Password- agri123
 
 ---
 
